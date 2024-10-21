@@ -1,0 +1,10 @@
+# Basic Information
+title: "Training a Reinforcement Learning Agent" # The name of your site
+
+# URL
+
+theme: minima  # A simple Jekyll theme that's clean and minimal
+
+# Markdown settings
+markdown: kramdown  # Jekyll uses kramdown by default; good for technical articles
+
